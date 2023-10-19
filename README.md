@@ -1,4 +1,8 @@
-# Web
+# CTN-SocialMediaPlatform-Web-App
+
+Web application for ClickToNet - Social Media Platform for Graduate students
+
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.6.
 
